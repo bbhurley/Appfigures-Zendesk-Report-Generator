@@ -1,5 +1,5 @@
 # Appfigures/Zendesk Report Generator
-A Python 3 script that can generate MySQL tables that contain general app statictics ([Appfigures](https://appfigures.com/)) and support ticket metrics ([Zendesk](https://www.zendesk.com/))
+A Python 3 script that can generate MySQL tables that contain general app statistics ([Appfigures](https://appfigures.com/)) and support ticket metrics ([Zendesk](https://www.zendesk.com/))
 
 ## Getting Started
 
